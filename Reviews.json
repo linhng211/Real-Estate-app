@@ -1,0 +1,72 @@
+[
+    {
+        "reviewID" : 9001,
+        "subjectID" : 1006,
+        "authorID" : 1001,
+        "rating" : 4,
+        "feedback" : "Nice guy"
+    },
+    {
+        "reviewID" : 9002,
+        "subjectID" : 1007,
+        "authorID" : 1002,
+        "rating" : 5,
+        "feedback" : "Great guy"
+    },
+    {
+        "reviewID" : 9003,
+        "subjectID" : 1008,
+        "authorID" : 1003,
+        "rating" : 1,
+        "feedback" : "Awful landlord"
+    },
+    {
+        "reviewID" : 9004,
+        "subjectID" : 1009,
+        "authorID" : 1004,
+        "rating" : 2,
+        "feedback" : "Terrible agent"
+    },
+    {
+        "reviewID" : 9005,
+        "subjectID" : 1010,
+        "authorID" : 1005,
+        "rating" : 3,
+        "feedback" : "Decent guy"
+    },
+    {
+        "reviewID" : 9006,
+        "subjectID" : 1001,
+        "authorID" : 1006,
+        "rating" : 4,
+        "feedback" : "Great place!"
+    },
+    {
+        "reviewID" : 9007,
+        "subjectID" : 1002,
+        "authorID" : 1007,
+        "rating" : 5,
+        "feedback" : "Best ever"
+    },
+    {
+        "reviewID" : 9008,
+        "subjectID" : 1003,
+        "authorID" : 1008,
+        "rating" : 1,
+        "feedback" : "Trashed the place"
+    },
+    {
+        "reviewID" : 9009,
+        "subjectID" : 1004,
+        "authorID" : 1009,
+        "rating" : 2,
+        "feedback" : "Wouldn’t rent again"
+    },
+    {
+        "reviewID" : 9010,
+        "subjectID" : 1005,
+        "authorID" : 1010,
+        "rating" : 3,
+        "feedback" : "Average"
+    }
+]
